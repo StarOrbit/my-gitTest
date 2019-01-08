@@ -6,3 +6,4 @@
 +   git commit
 +   git log
 +   git diff
++   git rebase
